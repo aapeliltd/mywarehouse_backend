@@ -1,0 +1,19 @@
+{
+  "name": "mywarehouse02",
+  "version": "1.0.0",
+  "description": "managing of warehouse and order fulfilment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "James Oladimeji",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "joi": "^14.3.0",
+    "jsonwebtoken": "^8.4.0",
+    "mysql": "^2.16.0"
+  }
+}
